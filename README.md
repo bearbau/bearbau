@@ -38,10 +38,12 @@
   <br>
 
   <sup><b>&nbsp;&nbsp;Database:</b></sup>&nbsp;
-    ![SQL](https://img.shields.io/badge/sql-E34F26?logo=mysql&logoColor=ffffff)&nbsp;
+    ![db2](https://img.shields.io/badge/IBM%20db2%20cloud-0530AD?logoColor=ffffff)&nbsp;
   <br>
   
-  <sup><b>&nbsp;&nbsp;UI/UX:</b></sup>&nbsp;
+  <sup><b>&nbsp;&nbsp;IDE/Program:</b></sup>&nbsp;
+    ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logoColor=ffffff)&nbsp;
+    ![Eclipse](https://img.shields.io/badge/eclipse-2C2255?logo=eclipseide&logoColor=ffffff)&nbsp;
     ![Figma](https://img.shields.io/badge/figma-4d516e?logo=figma&logoColor=ffffff)&nbsp;
   <br>
 
@@ -52,7 +54,8 @@
 <div align = center>
 
   <a href="https://t.me/beatrizbautista">![telegram](https://img.shields.io/badge/telegram-365d8a?logo=telegram&logoColor=ffffff)</a>&nbsp;
-  <a href="https://www.figma.com/@beatrizbautista">![figma](https://img.shields.io/badge/figma-365d8a?logo=figma&logoColor=ffffff)</a>&nbsp;
+  <a href="https://discordapp.com/users/1389006167056977960">![discord](https://img.shields.io/badge/discord-365d8a?logo=discord&logoColor=ffffff)</a>&nbsp;
+  <a href="https://www.figma.com/@beatrizbautista">![figma](https://img.shields.io/badge/figma_profile-365d8a?logo=figma&logoColor=ffffff)</a>&nbsp;
   <a href="https://www.linkedin.com/in/beatriz-marie-bautista-a169a0283/">![linkedin](https://img.shields.io/badge/linkedin-365d8a?logo=linkedin&logoColor=ffffff)</a>&nbsp;
   <p align=center><sup><i>"How to center a <code>div</code>?</i>"</p> </sup>
 </div>
