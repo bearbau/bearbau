@@ -1,7 +1,7 @@
 <!--- Header --->
 <h3 align=center> Welcome. I'm Beatriz Marie Bautista. 
   <img src="https://i.postimg.cc/4mX3FBBX/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4761763841417271666e4941414141692f626c6168616a2d626c.gif" width=auto height=34px></h3>
-<p align = center>I am a visual artist with a big interest in UI/UX and front-end development. I enjoy developing web and app designs that are easily readable.</p>
+<p align = center><sup>I am a visual artist with a big interest in UI/UX and front-end development. I enjoy developing web and app designs that are easily readable.</sup></p>
 
 <div align = center>
   
