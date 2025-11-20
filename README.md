@@ -26,8 +26,8 @@
       <table>
         <thead>
           <tr>
-            <th>Skillsets</th>
-            <th>Software</th>
+            <th>Skillset</th>
+            <th>Techstack</th>
           </tr>
         </thead>
         <tbody>
@@ -66,15 +66,15 @@
       <!--- End of inner table --->
     <!-- Right column -->
     <td style="vertical-align: top;">
-      <b>Education</b>
+      <b>📖Education</b>
       <ul>
-        <li>Information Communication Technology <i>(2022 - 2024)</i></li>
-        <li>BS Computer Science at New Era University <i>(2024 - Present)</i></li>
+        <li>Information Communication Technology (2022 - 2024)</li>
+        <li>BS Computer Science at New Era University (2024 - Present)</li>
       </ul>
       <h2></h2>
-      <b>Certifications</b>
+      <b>🌱Certifications</b>
       <ul>
-        <li>N/A <i>(2025)</i></li>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/e152ff7a3d8e471cbcd9517ce637f29e">SQL and Relational Databases 101<a> (November 2025)</li>
       </ul>
     </td>
   </tr>
