@@ -2,11 +2,11 @@
 <h3> Welcome. I'm Beatriz Marie Bautista. 
   <img src="https://i.postimg.cc/4mX3FBBX/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4761763841417271666e4941414141692f626c6168616a2d626c.gif" width=auto height=34px></h3>
 <p>I am a visual artist with a big interest in UI/UX and front-end development. I enjoy developing web and app designs that are easily readable.</p>
-  
+
   <a href="https://tidalhour.carrd.co/">![portfolio](https://img.shields.io/badge/portfolio-365d8a?style=flat&logo=carrd&logoColor=ffffff)</a>&nbsp;
+  <a href="https://www.figma.com/@beatrizbautista">![figma](https://img.shields.io/badge/figma-365d8a?logo=figma&logoColor=ffffff)</a>&nbsp;
   <a href="https://monkeytype.com/profile/tidalhour">![monkeytype](https://img.shields.io/badge/monkeytype-365d8a?logo=monkeytype&logoColor=ffffff)</a>&nbsp;
-  <a href="https://music.youtube.com/channel/UCFCTdnA9hY2TW1q_ieGMqlA?si=F_HsxhruYaovE4Pk">![music](https://img.shields.io/badge/my_music-365d8a?style=flat&logo=youtubemusic&logoColor=ffffff)</a>&nbsp;
-  
+  <a href="https://t.me/beatrizbautista">![telegram](https://img.shields.io/badge/telegram-365d8a?logo=telegram&logoColor=ffffff)</a>&nbsp;
 <h2></h2>
 
 <!--- Info --->
@@ -44,13 +44,3 @@
   <br>
 
 <h2></h2>
-
-<!--- Footer --->
-<div align=center>
-<h3>Find me!</h3>
-
-  <a href="https://t.me/beatrizbautista">![telegram](https://img.shields.io/badge/telegram-365d8a?logo=telegram&logoColor=ffffff)</a>&nbsp;
-  <a href="https://www.figma.com/@beatrizbautista">![figma](https://img.shields.io/badge/figma_profile-365d8a?logo=figma&logoColor=ffffff)</a>&nbsp;
-  <a href="https://www.linkedin.com/in/beatriz-marie-bautista-a169a0283/">![linkedin](https://img.shields.io/badge/linkedin-365d8a?logo=linkedin&logoColor=ffffff)</a>&nbsp;
-
-</div>
