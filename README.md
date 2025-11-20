@@ -69,7 +69,7 @@
         <li>Information Communication Technology <i>(2022 - 2024)</i></li>
         <li>BS Computer Science at New Era University <i>(2024 - Present)</i></li>
       </ul>
-      <hr>
+      <h2></h2>
       <b>Certifications</b>
       <ul>
         <li>N/A <i>(2025)</i></li>
