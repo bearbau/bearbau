@@ -25,7 +25,7 @@
       <b>🌱Certifications</b>
       <ul>
         <li><a href="https://courses.cognitiveclass.ai/certificates/e152ff7a3d8e471cbcd9517ce637f29e">SQL and Relational Databases 101<a> (November 2025)</li>
-      </ul><h2></h2>
+      </ul><br>
 <!---table --->
       <table>
         <thead>
