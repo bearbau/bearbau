@@ -1,7 +1,7 @@
 <!--- I never feel satisfied about my readmes, so I am truly apologizing for the multiple commits. --->
 
 <!--- Header --->
-<div id="user-content-toc" align=center>
+<div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
       <h1>Hi there. I'm Beatriz Marie Bautista. 
@@ -15,14 +15,18 @@
   <a href="https://monkeytype.com/profile/tidalhour">![monkeytype](https://img.shields.io/badge/monkeytype-365d8a?style=flat-square&logo=monkeytype&logoColor=ffffff)</a>&nbsp;
   <a href="https://t.me/beatrizbautista">![telegram](https://img.shields.io/badge/telegram-365d8a?style=flat-square&logo=telegram&logoColor=ffffff)</a>&nbsp;
   
-</div>
-
-
+</div><h2></h2>
 <!--- Info --->
-<table cellspacing="0" cellpadding="0" align=center>
-  <tr>
-    <td style="vertical-align: top;">
-      <!--- Inner table --->
+      <b>📖Education</b>
+      <ul>
+        <li>Information Communication Technology (2022 - 2024)</li>
+        <li>BS Computer Science at New Era University (2024 - Present)</li>
+      </ul>
+      <b>🌱Certifications</b>
+      <ul>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/e152ff7a3d8e471cbcd9517ce637f29e">SQL and Relational Databases 101<a> (November 2025)</li>
+      </ul><h2></h2>
+<!---table --->
       <table>
         <thead>
           <tr>
@@ -62,22 +66,4 @@
         </tr>
       </tbody>
       </table>
-    </td>
-      <!--- End of inner table --->
-    <!-- Right column -->
-    <td style="vertical-align: top;">
-      <b>📖Education</b>
-      <ul>
-        <li>Information Communication Technology (2022 - 2024)</li>
-        <li>BS Computer Science at New Era University (2024 - Present)</li>
-      </ul>
-      <h2></h2>
-      <b>🌱Certifications</b>
-      <ul>
-        <li><a href="https://courses.cognitiveclass.ai/certificates/e152ff7a3d8e471cbcd9517ce637f29e">SQL and Relational Databases 101<a> (November 2025)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 
