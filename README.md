@@ -19,7 +19,6 @@
 <!--- Info --->
       <b>📖Education</b>
       <ul>
-        <li>Information Communication Technology (2022 - 2024)</li>
         <li>BS Computer Science at New Era University (2024 - Present)</li>
       </ul>
       <b>🌱Certifications</b>
