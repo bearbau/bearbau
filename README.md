@@ -25,7 +25,8 @@
       <ul>
         <li><a href="https://courses.cognitiveclass.ai/certificates/e152ff7a3d8e471cbcd9517ce637f29e">SQL and Relational Databases 101<a> (November 2025)</li>
         <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B7AA126981AE2B09E6ECC8BA8DF871A9D297BFEEF24023B6775909D4E7C3AF3F">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a> (December 2025)</li>
-          <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=98503A4DAC3A1ABC83C12A4C42990002D6AFB4DEEF668BB71675BBB114D8E7D3">Oracle Data Platform 2025 Certified Foundations Associate</a> (December 2025)</li>
+        <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=98503A4DAC3A1ABC83C12A4C42990002D6AFB4DEEF668BB71675BBB114D8E7D3">Oracle Data Platform 2025 Certified Foundations Associate</a> (December 2025)</li>
+          <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=472F87646D7B9966D44F548F7D417537653F7CF1766A32702566060CCB1EC948">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a> (December 2025)</li>
       </ul><br>
 <!---table --->
       <table>
