@@ -11,7 +11,7 @@
   </ul>
 
   <a href="https://tidalhour.carrd.co/">![portfolio](https://img.shields.io/badge/portfolio-365d8a?style=flat-square&logo=carrd&logoColor=ffffff)</a>&nbsp;
-  <a href="https://monkeytype.com/profile/tidalhour">![monkeytype](https://img.shields.io/badge/monkeytype-365d8a?style=flat-square&logo=monkeytype&logoColor=ffffff)</a>&nbsp;
+  <a href="https://monkeytype.com/profile/bearbau">![monkeytype](https://img.shields.io/badge/monkeytype-365d8a?style=flat-square&logo=monkeytype&logoColor=ffffff)</a>&nbsp;
   
 </div><h2></h2>
 <br>
