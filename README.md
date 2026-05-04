@@ -4,7 +4,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>Hi there. I'm Beatriz Marie Bautista. 
+      <h1>Hi there.
   <img src="https://i.postimg.cc/4mX3FBBX/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4761763841417271666e4941414141692f626c6168616a2d626c.gif" width=auto height=34px></h1>
     </summary>
     <sup><p>Figuring stuff out.</p></sup>
