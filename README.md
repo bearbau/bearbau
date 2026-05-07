@@ -1,7 +1,7 @@
 <!--- More to come. --->
 
 <!--- Header --->
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
       <h1>hi there.
@@ -16,7 +16,7 @@
   
 </div><h2></h2>
 <!---table --->
-      <table>
+      <table align="center">
         <thead>
           <tr>
             <th>Skillset</th>
