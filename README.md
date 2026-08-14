@@ -17,7 +17,7 @@
 </div><h2></h2>
 
 <div align="center">
-  <sup>✈️ i do CTFs and bash scripting in my spare time</sup><br>
+  <sup>✈️ i tinker linux and bash in my spare time</sup><br>
   <sup>📨 currently finishing my CS degree</sup><br>
   <sup>🌧 read my <a href="https://t.me/bearbau">blog</a> where i learn stuff </sup><br><br>
   <sup><b>⚙️ techstack:</b> 
