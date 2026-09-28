@@ -13,11 +13,10 @@
   <a href="https://bearbau.github.io/portfolio/">![portfolio](https://img.shields.io/badge/portfolio-33699c?style=flat-square)</a>&nbsp;
   <a href="https://t.me/beatrizbautista">![telegram](https://img.shields.io/badge/telegram-33699c?style=flat-square)</a>&nbsp;
   <a href="https://monkeytype.com/profile/bearbau">![monkeytype](https://img.shields.io/badge/monkeytype-33699c?style=flat-square)</a>&nbsp;
-  <a href="https://learn.cylabacademy.org/users/bearbau">![CTF](https://img.shields.io/badge/CTF-33699c?style=flat-square)</a>&nbsp;
 </div><h2></h2>
 
 <div align="center">
-  <sup>✈️ i tinker linux and bash in my spare time</sup><br>
+  <sup>✈️ i tinker bash in my spare time</sup><br>
   <sup>📨 currently finishing my CS degree</sup><br>
   <sup>🌧 read my <a href="https://t.me/bearbau">blog</a> where i learn stuff </sup><br><br>
   <sup><b>⚙️ techstack:</b> 
