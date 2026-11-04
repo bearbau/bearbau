@@ -24,7 +24,7 @@
 
 <div align="center">
   
-  <sup>`react` `typescript` `javascript` `html` `css` `bootstrap` <br>
+  <sup>`react` `typescript` `javascript` `html` `css` `tailwind` `bootstrap` <br>
   `java` `python` `sql` `bash`<br>
   `figma` `git` `vscode` `vite` `eclipse` <br>
   
